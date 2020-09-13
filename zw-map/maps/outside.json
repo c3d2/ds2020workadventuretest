@@ -27,6 +27,12 @@
          "id":10,
          "name":"exit_haus_a",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":".\/haus_a.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -122,6 +128,12 @@
          "id":11,
          "name":"Kachelebene 10",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"depth",
+                 "type":"int",
+                 "value":3
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
