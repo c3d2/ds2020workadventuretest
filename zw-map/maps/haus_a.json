@@ -71,8 +71,8 @@
          "properties":[
                 {
                  "name":"openWebsite",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"https://c3d2.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -89,7 +89,7 @@
          "properties":[
                 {
                  "name":"jitsiRoom",
-                 "type":"string",
+                 "type":"bool",
                  "value":"https:\/\/kleiber.xvlc.de\/datenspuren"
                 }],
          "type":"tilelayer",
