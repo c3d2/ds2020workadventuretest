@@ -19,7 +19,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/outside.json"
+                 "value":".\/outside.json#honkys-car-entry-point"
                 }],
          "type":"tilelayer",
          "visible":true,
