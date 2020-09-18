@@ -35,9 +35,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiInstance",
+                 "type":"string",
+                 "value":"https:\/\/kleiber.xvlc.de\/"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/kleiber.xvlc.de\/dsorgatreffen"
+                 "value":"dsorgatreffen"
                 }],
          "type":"tilelayer",
          "visible":true,
