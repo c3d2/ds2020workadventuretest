@@ -230,12 +230,6 @@
          "id":11,
          "name":"Kachelebene 10",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"depth",
-                 "type":"int",
-                 "value":3
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
