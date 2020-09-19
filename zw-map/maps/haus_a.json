@@ -31,7 +31,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/minetest4kids.net\/2020\/09\/18\/minetest4kids-auf-den-datenspuren-2020\/"
                 }],
          "type":"tilelayer",
          "visible":true,
