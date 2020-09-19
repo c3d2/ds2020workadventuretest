@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/codimd.c3d2.de\/datenspuren-2020-guestbook"
+                 "value":"https:\/\/pentapad.c3d2.de\/p\/datenspuren2020guestbook"
                 }],
          "type":"tilelayer",
          "visible":true,
