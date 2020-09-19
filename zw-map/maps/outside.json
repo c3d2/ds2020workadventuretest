@@ -121,7 +121,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/haus_a.json"
+                 "value":".\/haus_a.json#start_front"
                 }],
          "type":"tilelayer",
          "visible":true,
