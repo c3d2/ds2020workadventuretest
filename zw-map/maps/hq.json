@@ -19,7 +19,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/outside.json"
+                 "value":".\/outside.json#hq_entry_point"
                 }],
          "type":"tilelayer",
          "visible":true,
