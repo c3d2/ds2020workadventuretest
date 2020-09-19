@@ -187,7 +187,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/codimd.c3d2.de\/datenspuren-2020-guestbook?edit"
+                 "value":"https:\/\/codimd.c3d2.de\/datenspuren-2020-guestbook"
                 }],
          "type":"tilelayer",
          "visible":true,
