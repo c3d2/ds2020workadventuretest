@@ -103,7 +103,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/outside.json#back_exit_haus_a"
+                 "value":".\/outside.json#back_entry_haus_a"
                 }],
          "type":"tilelayer",
          "visible":true,
