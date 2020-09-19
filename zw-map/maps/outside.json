@@ -557,7 +557,7 @@
                  "id":124,
                  "properties":[
                         {
-                         "name":"colidible",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -566,7 +566,7 @@
                  "id":125,
                  "properties":[
                         {
-                         "name":"colidible",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -655,7 +655,7 @@
                  "id":156,
                  "properties":[
                         {
-                         "name":"colidible",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -664,7 +664,7 @@
                  "id":157,
                  "properties":[
                         {
-                         "name":"colidible",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -773,6 +773,24 @@
                 }, 
                 {
                  "id":166,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":188,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":189,
                  "properties":[
                         {
                          "name":"collides",
