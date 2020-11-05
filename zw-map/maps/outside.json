@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/maps\/main.json"
                 }],
