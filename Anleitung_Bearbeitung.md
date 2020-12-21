@@ -17,7 +17,7 @@ Mit Krita wird eine bestehende Kachelsammlung geöffnet (z.B.:
 Kacheln hinzu oder man entledigt sich aller Ebenen und speichert es als neue
 Datei ab.
 
-### Die schwierigere methode
+### Die schwierigere Methode
 
 Krita wird geöffnet und es wird eine neue Datei erzeugt. Die Größe kann in
 beliebigen Vielfachen von 32 Pixeln angegeben werden. Die Voreinstellungen für
