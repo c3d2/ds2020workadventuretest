@@ -438,13 +438,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
          "columns":32,
          "firstgid":1,
-         "image":"..\/tiles\/zw.png",
+         "image":"zw-map\/tiles\/zw.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1052,7 +1052,7 @@
         {
          "columns":32,
          "firstgid":2049,
-         "image":"..\/tiles\/haus_a.png",
+         "image":"zw-map\/tiles\/haus_a.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1065,7 +1065,7 @@
         {
          "columns":32,
          "firstgid":4097,
-         "image":"..\/tiles\/chaos_zone_shared.png",
+         "image":"zw-map\/tiles\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
