@@ -6,7 +6,7 @@
                 if (path.endsWith('index.html')) {
                     path = path.substr(path, path.length - 'index.html'.length);
                 }
-                var url = 'https://test.visit.at.wa-test.rc3.cccv.de/_/global/'+window.location.host+path+'zw-map/maps/outside.json';
+                var url = 'https://test.visit.at.wa-test.rc3.cccv.de/_/global/'+window.location.host+path+'main.json';
                 document.getElementById('mapLink').href = url;
                 document.getElementById('mapLink').innerText = url;
             };
@@ -15,6 +15,6 @@
     <body>
         This website contains a map for <a href="https://workadventu.re">Workadventu.re</a>.
         <br/>
-        You can access this map at <a id="mapLink" href=""></a>
+        You can access this map at <a id="mapLink" href=url></a>
     </body>
 </html>
