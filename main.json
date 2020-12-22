@@ -244,7 +244,7 @@
                  "value":".\/zw-map\/maps\/haus_a.json#start_back"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
