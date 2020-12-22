@@ -29,9 +29,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/outside.json#honkys-car-entry-point"
+                 "value":"..\/..\/main.json#honkys-car-entry-point"
                 }],
          "type":"tilelayer",
          "visible":true,
