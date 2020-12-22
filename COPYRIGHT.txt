@@ -1,0 +1,22 @@
+# all used tilesets were checked before use if use for non-commercial purposes is possible.
+
+Tiles/Tilesets not mentioned here were specially designed for Datenspuren/rC3.
+
+Here are the links:
+
+# rC3 tiles proviced by rc3 team
+https://tiles.rc3.world
+
+# Pipoya Tilesets
+https://pipoya.itch.io/pipoya-rpg-tileset-32x32
+https://pipoya.itch.io/pipoya-free-rpg-world-tileset-32x32-40x40-48x48
+
+# floortileset
+https://opengameart.org/content/32x32-tilemap-grass-dungeon-floors-snow-water
+
+# Deviant
+https://www.deviantart.com/milkian/art/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743
+https://www.deviantart.com/milkian/art/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Hospital-651534818
+https://www.deviantart.com/milkian/art/Tilesets-Modern-Mack-723975011
+
+
