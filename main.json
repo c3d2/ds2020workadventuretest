@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/github.com\/chaosz0ne\/shared\/main.json"
+                 "value":"https:\/\/github.com\/chaosz0ne\/shared\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
