@@ -22,6 +22,7 @@ Map of Zentralwerk and c3d2 for Datenspuren 2020 and rC3
 |           | back_entry_haus_a |
 | rudi.json | start (Layer) |
 | hq.json   | start (Layer) |
+|           | entry_hq_backdoors |
 | haus_a.json| start (Layer) |
 |            | start_front |
 |            | start_back |
