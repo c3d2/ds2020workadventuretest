@@ -22,6 +22,7 @@ Map of Zentralwerk and c3d2 for Datenspuren 2020 and rC3
 |           | back_entry_haus_a |
 |           | entry_hq_backdoors |
 |           | honkys-car-entry-point |
+|           | exit_honky-car |
 |           | exit-haus-a-entry-point |
 | rudi.json | start (Layer) |
 | hq.json   | start (Layer) |
