@@ -149,9 +149,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".zw-map\/maps\/hq.json"
+                 "value":".\/zw-map\/maps\/hq.json"
                 }],
          "type":"tilelayer",
          "visible":false,
