@@ -101,9 +101,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/outside.json#exit-haus-a-entry-point"
+                 "value":"..\/..\/main.json#exit-haus-a-entry-point"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/outside.json#back_entry_haus_a"
+                 "value":"..\/..\/main.json#back_entry_haus_a"
                 }],
          "type":"tilelayer",
          "visible":true,
