@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/main.json#entry_hq_backdoors"
+                 "value":"..\/..\/main.json#entry_hq_garten"
                 }],
          "type":"tilelayer",
          "visible":true,
