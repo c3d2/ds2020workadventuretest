@@ -241,7 +241,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/koeart.github.io\/workathome\/main.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent\/workathome\/master\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
