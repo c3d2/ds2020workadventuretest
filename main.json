@@ -135,6 +135,12 @@
          "id":40,
          "name":"exit_rc3_lobby",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"{<lobby>\/erfas-spaces-north.json#start_c3d2}"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
