@@ -247,7 +247,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<koearthome>\/main.json}"
+                 "value":"{<koearthome>main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
