@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/main.json#honkys-car-entry-point"
+                 "value":"{<c3d2>..\/..\/main.json#honkys-car-entry-point}"
                 }],
          "type":"tilelayer",
          "visible":true,

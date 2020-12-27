@@ -41,9 +41,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"ExitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/hq.json"
+                 "value":"{<c3d2>.\/hq.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +126,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {

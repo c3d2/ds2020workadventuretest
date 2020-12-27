@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zw-map\/maps\/hq.json#entry_hq_backdoors"
+                 "value":"{<c3d2>\/zw-map\/maps\/hq.json#entry_hq_backdoors}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zw-map\/maps\/rudi.json"
+                 "value":"{<c3d2>\/zw-map\/maps\/rudi.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
+                 "value":"{<chaoszone>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zw-map\/maps\/hq.json"
+                 "value":"{<c3d2>\/zw-map\/maps\/hq.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zw-map\/maps\/haus_a.json#start_front"
+                 "value":"{<c3d2>\/zw-map\/maps\/haus_a.json#start_front}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,7 +247,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/koeart\/workathome\/master\/main.json"
+                 "value":"{<koearthome>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,7 +283,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zw-map\/maps\/haus_a.json#start_back"
+                 "value":"{<c3d2>\/zw-map\/maps\/haus_a.json#start_back}"
                 }],
          "type":"tilelayer",
          "visible":true,
