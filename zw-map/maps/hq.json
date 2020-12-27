@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d2>..\/..\/main.json#hq_entry_point}"
+                 "value":"{<c3d2>\/main.json#hq_entry_point}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d2>..\/..\/main.json#entry_hq_garten}"
+                 "value":"{<c3d2>\/main.json#entry_hq_garten}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -149,9 +149,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/chaoszone.json"
+                 "value":"{<c3d2>\/zw-map\/maps\/chaoszone.json"
                 }],
          "type":"tilelayer",
          "visible":true,

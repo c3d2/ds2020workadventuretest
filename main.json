@@ -243,12 +243,6 @@
          "id":44,
          "name":"exit_koeart_workathome",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"{<koearthome>main.json}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,

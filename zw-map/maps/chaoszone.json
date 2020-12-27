@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d2>.\/hq.json}"
+                 "value":"{<c3d2>\/zw-map\/maps\/hq.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
