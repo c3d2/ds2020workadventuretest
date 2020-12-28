@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_c3d2}"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_c3d2}"
                 }],
          "type":"tilelayer",
          "visible":true,
