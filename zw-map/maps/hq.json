@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main.json#hq_entry_point"
+                 "value":"..\/..\/main.json#hq_entry_point"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main.json#entry_hq_garten"
+                 "value":"..\/..\/main.json#entry_hq_garten"
                 }],
          "type":"tilelayer",
          "visible":true,

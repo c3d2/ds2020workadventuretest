@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main.json#exit-haus-a-entry-point"
+                 "value":"..\/..\/main.json#exit-haus-a-entry-point"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main.json#back_entry_haus_a"
+                 "value":"..\/..\/main.json#back_entry_haus_a"
                 }],
          "type":"tilelayer",
          "visible":true,
