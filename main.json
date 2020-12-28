@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d2>\/zw-map\/maps\/hq.json#entry_hq_backdoors}"
+                 "value":".\/zw-map\/maps\/hq.json#entry_hq_backdoors"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d2>\/zw-map\/maps\/rudi.json}"
+                 "value":".\/zw-map\/maps\/rudi.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d2>\/zw-map\/maps\/hq.json}"
+                 "value":".\/zw-map\/maps\/hq.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d2>\/zw-map\/maps\/haus_a.json#start_front}"
+                 "value":".\/zw-map\/maps\/haus_a.json#start_front"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -277,7 +277,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d2>\/zw-map\/maps\/haus_a.json#start_back}"
+                 "value":".\/zw-map\/maps\/haus_a.json#start_back"
                 }],
          "type":"tilelayer",
          "visible":true,
