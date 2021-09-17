@@ -1285,6 +1285,19 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
+        }, 
+        {
+         "columns":32,
+         "firstgid":7182,
+         "image":"zw-map\/tiles\/zw.png",
+         "imageheight":2048,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"zw",
+         "spacing":0,
+         "tilecount":2048,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
