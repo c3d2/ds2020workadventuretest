@@ -31,5 +31,3 @@ Map of Zentralwerk and c3d2 for Datenspuren 2020 and rC3
 |            | start_front |
 |            | start_back |
 | chaoszone.json | start (Layer) | 
-
-.
