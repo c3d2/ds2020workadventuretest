@@ -594,7 +594,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"..\/..\/ds2020workadventuretest\/zw-map\/tiles\/zw.png",
+         "image":"/zw-map\/tiles\/zw.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1202,7 +1202,7 @@
         {
          "columns":32,
          "firstgid":2049,
-         "image":"..\/..\/ds2020workadventuretest\/zw-map\/tiles\/haus_a.png",
+         "image":"zw-map\/tiles\/haus_a.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1225,7 +1225,7 @@
         {
          "columns":32,
          "firstgid":4097,
-         "image":"..\/..\/ds2020workadventuretest\/zw-map\/tiles\/chaos_zone_shared.png",
+         "image":"zw-map\/tiles\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1238,7 +1238,7 @@
         {
          "columns":9,
          "firstgid":6145,
-         "image":"..\/..\/ds2020workadventuretest\/zw-map\/tiles\/mapUtilities.png",
+         "image":"zw-map\/tiles\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -1261,7 +1261,7 @@
         {
          "columns":2,
          "firstgid":6154,
-         "image":"..\/..\/ds2020workadventuretest\/worldExit.png",
+         "image":"worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -1275,7 +1275,7 @@
         {
          "columns":16,
          "firstgid":6158,
-         "image":"..\/..\/ds2020workadventuretest\/tiles\/cert_safety.png",
+         "image":"tiles\/cert_safety.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
