@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/sachsen\/sachsen.json#reentry-c3d2"
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
